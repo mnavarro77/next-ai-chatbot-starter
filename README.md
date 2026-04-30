@@ -1,5 +1,7 @@
 # Tutorial: Configuración Inicial de un Proyecto Next.js con IA
 
+![Portada del Tutorial](./public/Gemini_Generated_Image_a6iamfa6iamfa6ia.png)
+
 En esta guía detallaremos los primeros pasos para inicializar un proyecto de Next.js moderno, configurar el entorno de desarrollo e instalar las dependencias necesarias para integrar capacidades de Inteligencia Artificial.
 
 ## Paso 1: Creación del Proyecto
